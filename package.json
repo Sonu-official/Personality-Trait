@@ -4,7 +4,7 @@
   "description": "API for student personality trait based on marks",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.html"
   },
   "engines": {
     "node": "14.x"
