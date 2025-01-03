@@ -1,5 +1,3 @@
-require('dotenv').config();
-
 const http = require('http');
 const mysql = require('mysql2');
 const url = require('url');
