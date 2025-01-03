@@ -1,0 +1,21 @@
+{
+  "name": "student-personality-api",
+  "version": "1.0.0",
+  "description": "API for student personality trait based on marks",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.12.0"
+  }
+}

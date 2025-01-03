@@ -1,0 +1,14 @@
+# Ignore environment configuration files
+.env
+
+# Node.js dependencies folder
+/node_modules
+
+# Logs and temporary files
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
